@@ -509,7 +509,7 @@ img{
 }
 
 .skills__sql{
-    width: 80%;
+    width: 85%;
 }
 
 .skills__js{
@@ -536,12 +536,28 @@ img{
     width: 90%;
 }
 
+.skills__r{
+    width: 70%;
+}
+
+.skills__excel{
+    width: 70%;
+}
+
 .skills__np{
     width: 80%;
 }
 
 .skills__pd{
     width: 90%;
+}
+
+.skills__opencv{
+    width: 65%;
+}
+
+.skills__pillow{
+    width: 65%;
 }
 
 .skills__mtl{
@@ -557,11 +573,11 @@ img{
 }
 
 .skills__pytorch{
-    width: 65%;
+    width: 85%;
 }
 
 .skills__seaborn{
-    width: 45%;
+    width: 70%;
 }
 
 .skills__looker{
@@ -569,7 +585,7 @@ img{
 }
 
 .skills__flask{
-    width: 50%;
+    width: 40%;
 }
 
 .skills__mllib{
@@ -589,11 +605,11 @@ img{
 }
 
 .skills__cnn{
-    width: 75%;
+    width: 80%;
 }
 
 .skills__nlp{
-    width: 60%;
+    width: 65%;
 }
 
 .skills__eda{
@@ -604,8 +620,12 @@ img{
     width: 65%;
 }
 
-.skills__time{
-    width: 65%;
+.skills__ensemble{
+    width: 90%;
+}
+
+.skills__mml{
+    width: 70%;
 }
 
 .skills__sagemaker{
