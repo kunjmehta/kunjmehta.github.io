@@ -836,6 +836,10 @@ img{
     transform: translateX(.25rem);
 }
 
+.portfolio__links{
+	color: var(--first-color);
+}
+
 .swiper-button-prev::after,
 .swiper-button-next::after{
     content:'';
