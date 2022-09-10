@@ -520,6 +520,10 @@ img{
     width: 75%;
 }
 
+.skills__cpp{
+    width: 40%;
+}
+
 .skills__android{
     width: 85%;
 }
@@ -568,6 +572,14 @@ img{
     width: 85%;
 }
 
+.skills__nltk{
+    width: 60%;
+}
+
+.skills__dgl{
+    width: 55%;
+}
+
 .skills__streamlit{
     width: 80%;
 }
@@ -604,6 +616,14 @@ img{
     width: 65%;
 }
 
+.skills__gnn{
+    width: 60%;
+}
+
+.skills__recsys{
+    width: 75%;
+}
+
 .skills__cnn{
     width: 80%;
 }
@@ -636,12 +656,41 @@ img{
     width: 75%;
 }
 
+.skills__docker{
+    width: 60%;
+}
+
+.skills__airflow{
+    width: 40%;
+}
+
+.skills__kafka{
+    width: 40%;
+}
+
+
 .skills__lambda{
     width: 70%;
 }
 
 .skills__bq{
     width: 40%;
+}
+
+.skills__redshift{
+    width: 75%;
+}
+
+.skills__rds{
+    width: 70%;
+}
+
+.skills__tableau{
+    width: 50%;
+}
+
+.skills__pbi{
+    width: 50%;
 }
 
 .skills__close .skills__list{
