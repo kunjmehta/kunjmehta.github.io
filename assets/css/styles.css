@@ -433,6 +433,10 @@ img{
     justify-content: center;
 }
 
+.resume{
+    margin-right: var(--mb-0-5);
+}
+
 /*==================== SKILLS ====================*/
 .skills__container{
     row-gap: 0;
