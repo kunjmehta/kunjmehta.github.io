@@ -8,7 +8,7 @@
 
     /*========== Colors ==========*/
     /* Change favorite color */
-    --hue-color: 5 ; /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
+    --hue-color: 230 ; /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
 
     /* HSL color mode */
     --first-color: hsl(var(--hue-color), 69%, 61%);
@@ -404,6 +404,7 @@ img{
 .about__description{
     text-align: center;
     margin-bottom: var(--mb-2-5);
+    font-size: small;
 }
 
 .about__info{
@@ -431,10 +432,12 @@ img{
 .about__buttons{
     display: flex;
     justify-content: center;
+    margin: auto;
 }
 
 .resume{
     margin-right: var(--mb-0-5);
+    margin: auto;
 }
 
 /*==================== SKILLS ====================*/
