@@ -512,7 +512,7 @@ img{
 }
 
 .skills__java{
-    width: 80%;
+    width: 70%;
 }
 
 .skills__sql{
@@ -528,11 +528,11 @@ img{
 }
 
 .skills__cpp{
-    width: 40%;
+    width: 70%;
 }
 
 .skills__android{
-    width: 85%;
+    width: 60%;
 }
 
 .skills__julia{
@@ -548,11 +548,23 @@ img{
 }
 
 .skills__r{
-    width: 70%;
+    width: 50%;
 }
 
 .skills__excel{
     width: 70%;
+}
+
+.skills__pydantic{
+    width: 90%;
+}
+
+.skills__fastapi{
+    width: 90%;
+}
+
+.skills__sqa{
+    width: 80%;
 }
 
 .skills__np{
@@ -600,7 +612,7 @@ img{
 }
 
 .skills__looker{
-    width: 75%;
+    width: 60%;
 }
 
 .skills__flask{
@@ -636,7 +648,7 @@ img{
 }
 
 .skills__nlp{
-    width: 65%;
+    width: 75%;
 }
 
 .skills__eda{
@@ -675,13 +687,20 @@ img{
     width: 40%;
 }
 
-
 .skills__lambda{
     width: 70%;
 }
 
 .skills__bq{
     width: 40%;
+}
+
+.skills__tdb{
+    width: 90%;
+}
+
+.skills__ssms{
+    width: 85%;
 }
 
 .skills__redshift{
